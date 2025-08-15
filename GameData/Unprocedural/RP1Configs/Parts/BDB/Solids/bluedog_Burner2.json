@@ -1,0 +1,26 @@
+[
+	{
+		"name": "bluedog_Burner2",
+		"title": "Burner 2",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 870,
+		"entry_cost": 1000,
+		"category": "RCS",
+		"info": "",
+		"year": "1967",
+		"technology": "dockingCrewTransfer",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "",
+		"identical_part_name": "",
+		"module_tags": [
+			"EngineLiquidPF"
+		]
+	}
+]

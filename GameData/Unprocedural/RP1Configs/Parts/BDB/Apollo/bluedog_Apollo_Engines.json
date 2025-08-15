@@ -1,0 +1,74 @@
+[
+	{
+		"name": "bluedog_Apollo_Block2_SPS",
+		"title": "AJ10-137 (Service Propulsion System)",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 159,
+		"entry_cost": 0,
+		"category": "ORBITAL",
+		"info": "",
+		"year": "1968",
+		"technology": "orbitalRocketry1968",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "AJ10_137",
+		"upgrade": false,
+		"entry_cost_mods": "AJ10-137",
+		"identical_part_name": "AJ10-137",
+		"module_tags": [
+			"EngineLiquidPF"
+		]
+	},
+	{
+		"name": "bluedog_LM_Ascent_Engine",
+		"title": "LMAE",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 63,
+		"entry_cost": 0,
+		"category": "EDL",
+		"info": "",
+		"year": "1969",
+		"technology": "lunarLanding",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "LMAE",
+		"upgrade": false,
+		"entry_cost_mods": "LMAE",
+		"identical_part_name": "ROC-LEMLMAEBDB",
+		"module_tags": [
+			"EngineLiquidPF"
+		]
+	},
+	{
+		"name": "bluedog_LM_Descent_Engine",
+		"title": "LMDE",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 142,
+		"entry_cost": 0,
+		"category": "EDL",
+		"info": "",
+		"year": "1969",
+		"technology": "lunarLanding",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "LMDE",
+		"upgrade": false,
+		"entry_cost_mods": "LMDE-H",
+		"identical_part_name": "",
+		"module_tags": [
+			"EngineLiquidPF"
+		]
+	}
+]

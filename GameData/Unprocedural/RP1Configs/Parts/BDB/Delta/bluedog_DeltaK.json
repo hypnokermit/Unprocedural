@@ -1,0 +1,58 @@
+[
+	{
+		"name": "bluedog_Delta_Avionics",
+		"title": "Delta-P/K Avionics Core",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 361,
+		"entry_cost": 6212,
+		"category": "AVIONICS",
+		"info": "",
+		"year": "1972",
+		"technology": "advancedAvionics",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "avionicsUpperAdvanced",
+		"identical_part_name": "",
+		"module_tags": [
+			"Avionics",
+			"NoResourceCostMult"
+		],
+		"avionics": {
+			"massLimit": 10.0,
+			"interplanetary": false
+		}
+	},
+	{
+		"name": "bluedog_DeltaK_Stage",
+		"title": "Delta K Propellant Tank",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 0,
+		"entry_cost": 1,
+		"category": "MATERIALS",
+		"info": "",
+		"year": "1972",
+		"technology": "materialsScienceSpaceStation",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "Al-Cu",
+		"identical_part_name": "",
+		"module_tags": [],
+		"tooling": {
+			"toolingType": "Tank-Sep-AlCu-HP",
+			"partDiameter": 1.5,
+			"partLength": 3.1
+		}
+	}
+]

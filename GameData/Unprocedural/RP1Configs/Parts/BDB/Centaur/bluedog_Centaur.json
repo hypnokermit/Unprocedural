@@ -1,0 +1,395 @@
+[
+	{
+		"name": "bluedog_CentaurD_Avionics",
+		"title": "Centaur 3m Avionics Core",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 850,
+		"entry_cost": 17500,
+		"category": "AVIONICS",
+		"info": "",
+		"year": "1963",
+		"technology": "improvedAvionics",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "avionicsUpperImproved",
+		"identical_part_name": "",
+		"module_tags": [
+			"Avionics",
+			"NoResourceCostMult"
+		],
+		"avionics": {
+			"massLimit": 130.0,
+			"interplanetary": false
+		}
+	},
+	{
+		"name": "bluedog_CentaurD_EngineMount",
+		"title": "Centaur D Engine Mount",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 0,
+		"entry_cost": 1,
+		"category": "MATERIALS",
+		"info": "",
+		"year": "1963",
+		"technology": "materialsScienceHuman",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "Aluminum",
+		"identical_part_name": "",
+		"module_tags": [],
+		"tooling": {
+			"toolingType": "Tank-Sep-Al2-HP",
+			"partDiameter": 3.0,
+			"partLength": 1.0
+		}
+	},
+	{
+		"name": "bluedog_CentaurD_FuelTank",
+		"title": "Centaur-D Propellant Tanks",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 0,
+		"entry_cost": 1,
+		"category": "MATERIALS",
+		"info": "",
+		"year": "1963",
+		"technology": "materialsScienceHuman",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "BalloonTanks-SatMat",
+		"identical_part_name": "",
+		"module_tags": [
+			"TankBalloon"
+		],
+		"tooling": {
+			"toolingType": "Tank-Balloon-SteelAl",
+			"partDiameter": 3.0,
+			"partLength": 5.4
+		}
+	},
+	{
+		"name": "bluedog_Centaur_Kickstage",
+		"title": "Centaur-DM Propellant Tanks",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 0,
+		"entry_cost": 1,
+		"category": "MATERIALS",
+		"info": "",
+		"year": "1974",
+		"technology": "materialsScienceSpaceStation",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "BalloonTanks-SatMat",
+		"identical_part_name": "",
+		"module_tags": [
+			"TankBalloon"
+		],
+		"tooling": {
+			"toolingType": "Tank-Balloon-SteelAl",
+			"partDiameter": 3.0,
+			"partLength": 1.9
+		}
+	},
+	{
+		"name": "bluedog_CentaurT_Avionics",
+		"title": "Centaur-G/G Prime/T Avionics Core",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 850,
+		"entry_cost": 17500,
+		"category": "AVIONICS",
+		"info": "",
+		"year": "1986",
+		"technology": "longTermAvionics",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "avionicsUpperLongTerm",
+		"identical_part_name": "",
+		"module_tags": [
+			"Avionics",
+			"NoResourceCostMult"
+		],
+		"avionics": {
+			"massLimit": 150.0,
+			"interplanetary": false
+		}
+	},
+	{
+		"name": "bluedog_CentaurT_TankA",
+		"title": "Centaur-G Prime/T LOX Tank Extension",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 0,
+		"entry_cost": 1,
+		"category": "MATERIALS",
+		"info": "",
+		"year": "1986",
+		"technology": "materialsScienceLongTerm",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "BalloonTanks-SatMat",
+		"identical_part_name": "",
+		"module_tags": [
+			"TankBalloon"
+		],
+		"tooling": {
+			"toolingType": "Tank-Balloon-SteelAlCu",
+			"partDiameter": 3.0,
+			"partLength": 0.8
+		}
+	},
+	{
+		"name": "bluedog_CentaurT_TankB",
+		"title": "Centaur-G/G Prime/T Adapter Tank",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 0,
+		"entry_cost": 1,
+		"category": "MATERIALS",
+		"info": "",
+		"year": "1986",
+		"technology": "materialsScienceLongTerm",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "BalloonTanks-SatMat",
+		"identical_part_name": "",
+		"module_tags": [
+			"TankBalloon"
+		],
+		"tooling": {
+			"toolingType": "Tank-Balloon-SteelAlCu",
+			"partDiameter": 4.0,
+			"partLength": 1.5
+		}
+	},
+	{
+		"name": "bluedog_CentaurT_TankC",
+		"title": "Centaur-G Prime/T LH2 Tank Extension",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 0,
+		"entry_cost": 1,
+		"category": "MATERIALS",
+		"info": "",
+		"year": "1986",
+		"technology": "materialsScienceLongTerm",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "BalloonTanks-SatMat",
+		"identical_part_name": "",
+		"module_tags": [
+			"TankBalloon"
+		],
+		"tooling": {
+			"toolingType": "Tank-Balloon-SteelAlCu",
+			"partDiameter": 4.0,
+			"partLength": 1.1
+		}
+	},
+	{
+		"name": "bluedog_CentaurT_TankD",
+		"title": "Centaur-G/G Prime/T LH2 Tank",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 0,
+		"entry_cost": 1,
+		"category": "MATERIALS",
+		"info": "",
+		"year": "1986",
+		"technology": "materialsScienceLongTerm",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "BalloonTanks-SatMat",
+		"identical_part_name": "",
+		"module_tags": [
+			"TankBalloon"
+		],
+		"tooling": {
+			"toolingType": "Tank-Balloon-SteelAlCu",
+			"partDiameter": 4.0,
+			"partLength": 1.3
+		}
+	},
+	{
+		"name": "bluedog_Centaur_ARCM",
+		"title": "Atlas-II Roll Control Module",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 50,
+		"entry_cost": 0,
+		"category": "RCS",
+		"info": "",
+		"year": "1991",
+		"technology": "standardDockingPorts",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "1000, rcsMult",
+		"identical_part_name": "",
+		"module_tags": [
+			"EngineLiquidPF"
+		]
+	},
+	{
+		"name": "bluedog_CentaurIII_FuelTank",
+		"title": "Common Centaur Propellant Tank",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 0,
+		"entry_cost": 1,
+		"category": "MATERIALS",
+		"info": "",
+		"year": "2002",
+		"technology": "materialsScienceInternational",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "BalloonTanks-SatMat",
+		"identical_part_name": "",
+		"module_tags": [
+			"TankBalloon"
+		],
+		"tooling": {
+			"toolingType": "Tank-Balloon-SteelAl",
+			"partDiameter": 3.0,
+			"partLength": 6.5
+		}
+	},
+	{
+		"name": "RO-bluedog_CentaurII_EngineMount",
+		"title": "Centaur II/III Engine Mount",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 0,
+		"entry_cost": 1,
+		"category": "MATERIALS",
+		"info": "",
+		"year": "1991",
+		"technology": "materialsScienceLongTerm",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "BalloonTanks-SatMat",
+		"identical_part_name": "",
+		"module_tags": [
+			"TankBalloon"
+		],
+		"tooling": {
+		"entry_cost_mods": "Al-Li",
+			"partDiameter": 3.0,
+			"partLength": 1.0
+		}
+	},
+	{
+		"name": "bluedog_Centaur_2p5m_Adapter",
+		"title": "Atlas V 400 Series Interstage",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 0,
+		"entry_cost": 1,
+		"category": "MATERIALS",
+		"info": "",
+		"year": "2002",
+		"technology": "materialsScienceInternational",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "",
+		"identical_part_name": "",
+		"module_tags": [],
+		"tooling": {
+			"toolingType": "Stringers",
+			"partDiameter": 4.0,
+			"partLength": 4.7
+		}
+	},
+	{
+		"name": "bluedog_CentaurD_RL10",
+		"title": "RL10 Series Vacuum Engine",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 294,
+		"entry_cost": 0,
+		"category": "HYDROLOX",
+		"info": "",
+		"year": "1962",
+		"technology": "prototypeHydrolox",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "RL10A-1",
+		"identical_part_name": "RL10",
+		"module_tags": [
+			"EngineLiquidTurbo",
+			"Hydrolox"
+		]
+	}
+]

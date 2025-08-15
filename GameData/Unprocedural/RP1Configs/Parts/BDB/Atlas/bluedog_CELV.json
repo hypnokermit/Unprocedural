@@ -1,0 +1,162 @@
+[
+	{
+		"name": "bluedog_CELV_ConicalAdapterTank",
+		"title": "Atlas CELV Conical Adapter Tank",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 0,
+		"entry_cost": 1,
+		"category": "MATERIALS",
+		"info": "",
+		"year": "1984",
+		"technology": "materialsScienceSpaceplanes",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "BalloonTanks-SatMat",
+		"identical_part_name": "",
+		"module_tags": [
+			"TankBalloon"
+		],
+		"tooling": {
+			"toolingType": "Tank-Balloon-SteelAl",
+			"partDiameter": 5.0,
+			"partLength": 6.0
+		}
+	},
+	{
+		"name": "bluedog_Atlas_CELV_extensionTank",
+		"title": "Atlas CELV Extension Tank",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 1,
+		"entry_cost": 146000,
+		"category": "MATERIALS",
+		"info": "",
+		"year": "1984",
+		"technology": "materialsScienceSpaceplanes",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "BalloonTanks-SatMat",
+		"identical_part_name": "",
+		"module_tags": [
+			"TankBalloon"
+		]
+	},
+	{
+		"name": "bluedog_CELV_MainTank",
+		"title": "Atlas CELV Main Tank",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 0,
+		"entry_cost": 1,
+		"category": "MATERIALS",
+		"info": "",
+		"year": "1984",
+		"technology": "materialsScienceSpaceplanes",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "BalloonTanks-SatMat",
+		"identical_part_name": "",
+		"module_tags": [
+			"TankBalloon"
+		],
+		"tooling": {
+			"toolingType": "Tank-Balloon-SteelAl",
+			"partDiameter": 5.0,
+			"partLength": 10.9
+		}
+	},
+	{
+		"name": "bluedog_CELV_BoosterSkirt",
+		"title": "Atlas CELV Booster Skirt",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 0,
+		"entry_cost": 1,
+		"category": "MATERIALS",
+		"info": "",
+		"year": "1984",
+		"technology": "materialsScienceSpaceplanes",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "",
+		"identical_part_name": "",
+		"module_tags": [],
+		"tooling": {
+			"toolingType": "Stringers",
+			"partDiameter": 5.0,
+			"partLength": 4.0
+		}
+	},
+	{
+		"name": "bluedog_CELV_Fin",
+		"title": "Atlas CELV Aerodynamic Fin",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 10,
+		"entry_cost": 1,
+		"category": "MATERIALS",
+		"info": "",
+		"year": "1984",
+		"technology": "materialsScienceSpaceplanes",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "",
+		"identical_part_name": "",
+		"module_tags": []
+	},
+	{
+		"name": "bluedog_CELV_SustainerTank",
+		"title": "Atlas CELV Sustainer Adapter Tank",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 0,
+		"entry_cost": 1,
+		"category": "MATERIALS",
+		"info": "",
+		"year": "1984",
+		"technology": "materialsScienceSpaceplanes",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "BalloonTanks-SatMat",
+		"identical_part_name": "",
+		"module_tags": [
+			"TankBalloon"
+		],
+		"tooling": {
+			"toolingType": "Tank-Balloon-SteelAl",
+			"partDiameter": 5.0,
+			"partLength": 3.0
+		}
+	}
+]

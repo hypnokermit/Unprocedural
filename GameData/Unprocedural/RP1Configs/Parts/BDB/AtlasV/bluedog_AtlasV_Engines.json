@@ -1,0 +1,122 @@
+[
+	{
+		"name": "bluedog_AtlasV_AJ60motor",
+		"title": "AJ60A",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 2400,
+		"entry_cost": 0,
+		"category": "SOLID",
+		"info": "",
+		"year": "2002",
+		"technology": "solids1998",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "AJ60A",
+		"upgrade": false,
+		"entry_cost_mods": "AJ-60A",
+		"identical_part_name": "AJ-60A",
+		"module_tags": [
+  		"EngineSolid"
+		]
+	},
+	{
+		"name": "bluedog_AtlasV_GEM63XL",
+		"title": "GEM-63XL",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 2400,
+		"entry_cost": 0,
+		"category": "SOLID",
+		"info": "",
+		"year": "2020",
+		"technology": "solids2019",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "GEM-63XL",
+		"upgrade": false,
+		"entry_cost_mods": "GEM-63XL",
+		"identical_part_name": "",
+		"module_tags": [
+  		"EngineSolid"
+		]
+	},
+	{
+		"name": "bluedog_AtlasV_GEM63",
+		"title": "GEM-63",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 2400,
+		"entry_cost": 0,
+		"category": "SOLID",
+		"info": "",
+		"year": "2018",
+		"technology": "solids2009",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "GEM-63",
+		"upgrade": false,
+		"entry_cost_mods": "GEM-63",
+		"identical_part_name": "",
+		"module_tags": [
+  		"EngineSolid"
+		]
+	},
+	{
+		"name": "bluedog_AtlasV_RD180engine",
+		"title": "RD-180 Engine",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 1700,
+		"entry_cost": 0,
+		"category": "STAGED",
+		"info": "",
+		"year": "2002",
+		"technology": "stagedCombustion1998",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "RD180",
+		"upgrade": false,
+		"entry_cost_mods": "RD-180",
+		"identical_part_name": "RD-180",
+		"module_tags": [
+			"EngineLiquidTurbo"
+		]
+	},
+	{
+		"name": "bluedog_AtlasV_Star5F",
+		"title": "Atlas V CCB Seperation Motor",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 50,
+		"entry_cost": 1000,
+		"category": "SOLID",
+		"info": "",
+		"year": "2002",
+		"technology": "solids1998",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "Star-5F",
+		"upgrade": false,
+		"entry_cost_mods": "",
+		"identical_part_name": "",
+		"module_tags": [
+  		"EngineSolid"
+		]
+	}
+]

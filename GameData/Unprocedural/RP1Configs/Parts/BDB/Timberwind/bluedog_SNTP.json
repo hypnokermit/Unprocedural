@@ -1,0 +1,52 @@
+[
+	{
+		"name": "bluedog_SNTP_45",
+		"title": "TIMBERWIND 45 Nuclear Engine",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 12658,
+		"entry_cost": 0,
+		"category": "NTR",
+		"info": "",
+		"year": "1992",
+		"technology": "improvedNuclearPropulsion",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "Timberwind 45",
+		"upgrade": false,
+		"entry_cost_mods": "21097,Phoebus2N100-Hydrogen",
+		"identical_part_name": "",
+		"module_tags": [
+  		"EngineLiquidTurbo",
+  		"Nuclear"
+		]
+	},
+	{
+		"name": "bluedog_STNP_75",
+		"title": "TIMBERWIND 75 Nuclear Engine",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 15823,
+		"entry_cost": 0,
+		"category": "NTR",
+		"info": "",
+		"year": "1992",
+		"technology": "improvedNuclearPropulsion",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "Timberwind 75",
+		"upgrade": false,
+		"entry_cost_mods": "bluedog-SNTP-45",
+		"identical_part_name": "",
+		"module_tags": [
+  		"EngineLiquidTurbo",
+  		"Nuclear"
+		]
+	}
+]

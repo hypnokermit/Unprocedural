@@ -1,0 +1,87 @@
+[
+	{
+		"name": "bluedog_HOSS_Avionics",
+		"title": "Delta HOSS Avionics",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 623,
+		"entry_cost": 13000,
+		"category": "AVIONICS",
+		"info": "",
+		"year": "1969",
+		"technology": "largeScaleAvionics",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "avionicsUpperLargeScale",
+		"identical_part_name": "",
+		"module_tags": [
+			"Avionics",
+			"NoResourceCostMult"
+		],
+		"avionics": {
+			"massLimit": 65.0,
+			"interplanetary": false
+		}
+	},
+	{
+		"name": "bluedog_HOSS_Tank",
+		"title": "Delta HOSS Tank",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 0,
+		"entry_cost": 1,
+		"category": "MATERIALS",
+		"info": "",
+		"year": "1969",
+		"technology": "materialsScienceLunar",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "Aluminum, Isogrids",
+		"identical_part_name": "",
+		"module_tags": [
+			"TankIsogrid"
+		],
+		"tooling": {
+			"toolingType": "Tank-Iso-Al",
+			"partDiameter": 2.4,
+			"partLength": 6.8
+		}
+	},
+	{
+		"name": "bluedog_HOSS_EngineMount",
+		"title": "Delta HOSS Engine Mount",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 0,
+		"entry_cost": 1,
+		"category": "MATERIALS",
+		"info": "",
+		"year": "1969",
+		"technology": "materialsScienceLunar",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "Al-Cu",
+		"identical_part_name": "",
+		"module_tags": [],
+		"tooling": {
+			"toolingType": "Tank-Sep-AlCu-HP",
+			"partDiameter": 2.4,
+			"partLength": 0.83
+		}
+	}
+]

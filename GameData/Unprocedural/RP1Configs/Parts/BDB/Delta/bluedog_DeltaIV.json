@@ -1,0 +1,109 @@
+[
+	{
+		"name": "bluedog_DeltaIV_s1_lowerTank",
+		"title": "Delta IV CBC LH2 Tank",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 0,
+		"entry_cost": 1,
+		"category": "MATERIALS",
+		"info": "",
+		"year": "2002",
+		"technology": "materialsScienceInternational",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "Al-Li, Isogrids",
+		"identical_part_name": "",
+		"module_tags": [
+			"TankIsogrid"
+		],
+		"tooling": {
+			"toolingType": "Tank-Iso-AlLi",
+			"partDiameter": 5.0,
+			"partLength": 23.0
+		}
+	},
+	{
+		"name": "bluedog_DeltaIV_s1_upperTank",
+		"title": "Delta IV CBC LOX Tank",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 0,
+		"entry_cost": 1,
+		"category": "MATERIALS",
+		"info": "",
+		"year": "2002",
+		"technology": "materialsScienceInternational",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "Al-Li, Isogrids",
+		"identical_part_name": "",
+		"module_tags": [
+			"TankIsogrid"
+		],
+		"tooling": {
+			"toolingType": "Tank-Iso-AlLi",
+			"partDiameter": 5.0,
+			"partLength": 11.5
+		}
+	},
+	{
+		"name": "bluedog_DeltaIV_noseCone",
+		"title": "Delta IV Heavy Booster Nosecone",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 0,
+		"entry_cost": 1,
+		"category": "MATERIALS",
+		"info": "",
+		"year": "2004",
+		"technology": "materialsScienceInternational",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "",
+		"identical_part_name": "",
+		"module_tags": [],
+		"tooling": {
+			"toolingType": "Stringers",
+			"partDiameter": 5.0,
+			"partLength": 6.0
+		}
+	},
+	{
+		"name": "bluedog_DeltaIV_heavyDecoupler",
+		"title": "Delta IV Heavy Radial Decoupler",
+		"description": "",
+		"mod": "Bluedog DB",
+		"cost": 200,
+		"entry_cost": 500,
+		"category": "MATERIALS",
+		"info": "",
+		"year": "2004",
+		"technology": "materialsScienceInternational",
+		"era": "",
+		"ro": true,
+		"orphan": false,
+		"rp0_conf": true,
+		"spacecraft": "",
+		"engine_config": "",
+		"upgrade": false,
+		"entry_cost_mods": "",
+		"identical_part_name": "",
+		"module_tags": []
+	}
+]
