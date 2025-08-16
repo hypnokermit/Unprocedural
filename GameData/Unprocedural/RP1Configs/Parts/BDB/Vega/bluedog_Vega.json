@@ -169,15 +169,6 @@
 		"identical_part_name": "",
 		"module_tags": [
 			"EngineLiquidTurbo"
-		],
-		"tooling": {
-			"toolingType": "Tank-Sep-Al-HP",
-			"partDiameter": 1.8,
-			"partLength": 3.4
-		},
-		"avionics": {
-			"massLimit": 130.0,
-			"interplanetary": false
-		}
+		]
 	}
 ]
