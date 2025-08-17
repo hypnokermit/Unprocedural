@@ -40,7 +40,7 @@
 		"engine_config": "Algol-III",
 		"upgrade": false,
 		"entry_cost_mods": "ROE-Algol3-Inline",
-		"identical_part_name": "Algol3",
+		"identical_part_name": "Algol3-Inline",
 		"module_tags": [
 			"EngineSolid"
 		]
@@ -64,7 +64,7 @@
 		"engine_config": "Algol-II",
 		"upgrade": false,
 		"entry_cost_mods": "ROE-Algol2-Inline",
-		"identical_part_name": "",
+		"identical_part_name": "Algol2-Inline",
 		"module_tags": [
 			"EngineSolid"
 		]
@@ -88,7 +88,7 @@
 		"engine_config": "Algol-I",
 		"upgrade": false,
 		"entry_cost_mods": "ROE-Algol1-Inline",
-		"identical_part_name": "",
+		"identical_part_name": "Algol1-Inline",
 		"module_tags": [
 			"EngineSolid"
 		]
@@ -112,7 +112,7 @@
 		"engine_config": "Algol-III",
 		"upgrade": false,
 		"entry_cost_mods": "ROE-Algol3",
-		"identical_part_name": "",
+		"identical_part_name": "Algol3",
 		"module_tags": [
 			"EngineSolid"
 		]
@@ -136,7 +136,7 @@
 		"engine_config": "Algol-II",
 		"upgrade": false,
 		"entry_cost_mods": "ROE-Algol2",
-		"identical_part_name": "",
+		"identical_part_name": "Algol2",
 		"module_tags": [
 			"EngineSolid"
 		]
@@ -232,7 +232,7 @@
 		"engine_config": "Antares-II",
 		"upgrade": false,
 		"entry_cost_mods": "ROE-Antares2-Inline",
-		"identical_part_name": "",
+		"identical_part_name": "Antares2-Inline",
 		"module_tags": [
 			"EngineSolid"
 		]
@@ -256,7 +256,7 @@
 		"engine_config": "Star-31",
 		"upgrade": false,
 		"entry_cost_mods": "ROE-Antares3-Inline",
-		"identical_part_name": "",
+		"identical_part_name": "Antares3-Inline",
 		"module_tags": [
 			"EngineSolid"
 		]
@@ -280,7 +280,7 @@
 		"engine_config": "Antares-I",
 		"upgrade": false,
 		"entry_cost_mods": "ROE-Antares1",
-		"identical_part_name": "",
+		"identical_part_name": "Antares1",
 		"module_tags": [
 			"EngineSolid"
 		]
@@ -304,7 +304,7 @@
 		"engine_config": "Antares-II",
 		"upgrade": false,
 		"entry_cost_mods": "ROE-Antares2",
-		"identical_part_name": "",
+		"identical_part_name": "Antares2",
 		"module_tags": [
 			"EngineSolid"
 		]
@@ -328,7 +328,7 @@
 		"engine_config": "Star-31",
 		"upgrade": false,
 		"entry_cost_mods": "ROE-Antares3",
-		"identical_part_name": "",
+		"identical_part_name": "Antares3",
 		"module_tags": [
 			"EngineSolid"
 		]
@@ -352,7 +352,7 @@
 		"engine_config": "Castor-2",
 		"upgrade": false,
 		"entry_cost_mods": "ROE-Castor2-Inline",
-		"identical_part_name": "",
+		"identical_part_name": "Castor 2 Inline",
 		"module_tags": [
 			"EngineSolid"
 		]
@@ -376,7 +376,7 @@
 		"engine_config": "XM-20",
 		"upgrade": false,
 		"entry_cost_mods": "ROE-Castor1-Inline",
-		"identical_part_name": "",
+		"identical_part_name": "Castor 1 Inline",
 		"module_tags": [
 			"EngineSolid"
 		]

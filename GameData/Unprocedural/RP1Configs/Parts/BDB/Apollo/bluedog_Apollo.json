@@ -18,7 +18,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "capsulesApollo",
-		"identical_part_name": "",
+		"identical_part_name": "Apollo Nosecone",
 		"module_tags": [
 			"Reentry"
 		]
@@ -70,7 +70,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "",
-		"identical_part_name": "",
+		"identical_part_name": "Apollo HGA",
 		"module_tags": [
 			"Instruments"
 		]
@@ -94,7 +94,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "ROC-ApolloScimitarBDB",
-		"identical_part_name": "",
+		"identical_part_name": "Apollo Scimitar Antenna",
 		"module_tags": [
 			"Instruments"
 		]
@@ -118,7 +118,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "ROC-ApolloSMB2BDB",
-		"identical_part_name": "",
+		"identical_part_name": "Apollo SM",
 		"module_tags": [
 			"NoResourceCostMult"
 		],
@@ -146,7 +146,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "dockingApollo",
-		"identical_part_name": "",
+		"identical_part_name": "Apollo Probe",
 		"module_tags": []
 	},
 	{
@@ -168,7 +168,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "ROC-ApolloDrogueDockPortBDB",
-		"identical_part_name": "",
+		"identical_part_name": "Apollo Drogue",
 		"module_tags": []
 	},
 	{
@@ -190,7 +190,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "capsulesApollo",
-		"identical_part_name": "",
+		"identical_part_name": "Apollo CM",
 		"module_tags": [
 			"HumanRated",
 			"NoResourceCostMult",
@@ -221,7 +221,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "",
-		"identical_part_name": "",
+		"identical_part_name": "ApolloHGABlockIII",
 		"module_tags": [
 			"Instruments"
 		]
@@ -271,7 +271,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "ROC-ApolloSMBlockIII",
-		"identical_part_name": "",
+		"identical_part_name": "Apollo Block III Service Module",
 		"module_tags": [
 			"NoResourceCostMult"
 		],
@@ -282,7 +282,7 @@
 	},
 	{
 		"name": "bluedog_Apollo_CrewPod_5crew",
-		"title": "Apollo Block III+ Command Module (CM) - ApolloCMBDBBlockIII",
+		"title": "Apollo Block III+ Command Module (CM)",
 		"description": "",
 		"mod": "Bluedog DB",
 		"cost": 13500,
@@ -299,7 +299,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "capsulesApolloBIII",
-		"identical_part_name": "",
+		"identical_part_name": "Apollo Block III+ CM",
 		"module_tags": [
 			"HumanRated",
 			"NoResourceCostMult",
@@ -330,7 +330,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "ROC-ApolloMissionModule4",
-		"identical_part_name": "",
+		"identical_part_name": "Apollo Block IV Mission Module",
 		"module_tags": [
 			"HumanRated",
 			"NoResourceCostMult"
@@ -356,7 +356,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "ROC-ApolloSMDBDBlockIV",
-		"identical_part_name": "",
+		"identical_part_name": "Apollo Block IV Service Module",
 		"module_tags": [
 			"NoResourceCostMult"
 		],
@@ -428,7 +428,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "ROC-ApolloHGABlockV",
-		"identical_part_name": "",
+		"identical_part_name": "Apollo Block V HGA",
 		"module_tags": [
 			"Instruments"
 		]
@@ -452,7 +452,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "ROC-ApolloSolarBlockV",
-		"identical_part_name": "",
+		"identical_part_name": "Apollo Block V Solar",
 		"module_tags": []
 	},
 	{
@@ -618,7 +618,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "rn-apas75",
-		"identical_part_name": "",
+		"identical_part_name": "APAS-75",
 		"module_tags": []
 	},
 	{
@@ -640,7 +640,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "ROC-ApolloASTPAdapterBDB",
-		"identical_part_name": "",
+		"identical_part_name": "ASTP Antenna",
 		"module_tags": [
 			"Instruments"
 		]
@@ -664,7 +664,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "ROC-ApolloASTPAdapterBDB",
-		"identical_part_name": "",
+		"identical_part_name": "ASTP Adapter",
 		"module_tags": []
 	},
 	{
@@ -686,7 +686,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "ROC-ApolloASTPAdapterBDB",
-		"identical_part_name": "",
+		"identical_part_name": "ASTP UV Exp",
 		"module_tags": []
 	},
 	{
@@ -808,7 +808,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "capsulesApollo",
-		"identical_part_name": "",
+		"identical_part_name": "Apollo Drogue Chutes",
 		"module_tags": [
 			"Reentry"
 		]
@@ -832,7 +832,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "capsulesApollo",
-		"identical_part_name": "",
+		"identical_part_name": "Apollo Chutes",
 		"module_tags": [
 			"Reentry"
 		]
@@ -856,7 +856,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "ApolloSM",
-		"identical_part_name": "",
+		"identical_part_name": "Apollo SM Mount",
 		"module_tags": []
 	},
 	{
@@ -925,7 +925,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "capsulesApollo",
-		"identical_part_name": "",
+		"identical_part_name": "Apollo HS",
 		"module_tags": [
 			"Reentry"
 		]
@@ -949,7 +949,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "ROC-ApolloLESBDB",
-		"identical_part_name": "",
+		"identical_part_name": "Apollo LES",
 		"module_tags": [
 			"EngineSolid"
 		]

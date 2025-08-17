@@ -18,7 +18,7 @@
 		"engine_config": "Castor-30A",
 		"upgrade": false,
 		"entry_cost_mods": "Castor-30A",
-		"identical_part_name": "",
+		"identical_part_name": "Castor 30A",
 		"module_tags": [
 			"EngineSolid"
 		]
@@ -187,7 +187,7 @@
 		"engine_config": "Castor-120",
 		"upgrade": false,
 		"entry_cost_mods": "Castor-120",
-		"identical_part_name": "",
+		"identical_part_name": "Castor 120",
 		"module_tags": [
   		"EngineSolid"
 		]

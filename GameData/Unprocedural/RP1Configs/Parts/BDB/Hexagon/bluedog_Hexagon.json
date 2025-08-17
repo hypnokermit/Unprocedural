@@ -45,7 +45,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "27500,RO-ImprovedFilmCamera",
-		"identical_part_name": "",
+		"identical_part_name": "KH9",
 		"module_tags": [
 			"Instruments"
 		]

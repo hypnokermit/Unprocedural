@@ -18,7 +18,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "capsulesGemini",
-		"identical_part_name": "",
+		"identical_part_name": "GeminiPod",
 		"module_tags": [
 			"HumanRated",
 			"NoResourceCostMult",
@@ -50,7 +50,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "capsulesGemini, heatshieldsEarlyLunar, 10000",
-		"identical_part_name": "",
+		"identical_part_name": "GeminiPodLunar",
 		"module_tags": [
 			"HumanRated",
 			"NoResourceCostMult",
@@ -112,7 +112,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "capsulesGemini",
-		"identical_part_name": "",
+		"identical_part_name": "GeminiDecoupler",
 		"module_tags": []
 	},
 	{
@@ -180,7 +180,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "capsulesGemini",
-		"identical_part_name": "",
+		"identical_part_name": "GeminiDrogueChute",
 		"module_tags": []
 	},
 	{
@@ -202,7 +202,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "GeminiSM",
-		"identical_part_name": "",
+		"identical_part_name": "GeminiSM",
 		"module_tags": [
 			"Toxic"
 		],
@@ -281,7 +281,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "capsulesGemini",
-		"identical_part_name": "",
+		"identical_part_name": "GeminiHS",
 		"module_tags": [
 			"Reentry"
 		]
@@ -305,7 +305,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "heatshieldsEarlyLunar",
-		"identical_part_name": "",
+		"identical_part_name": "GeminiHSLunar",
 		"module_tags": [
 			"Reentry"
 		]
@@ -547,7 +547,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "capsulesGemini",
-		"identical_part_name": "",
+		"identical_part_name": "GeminiMainChute",
 		"module_tags": []
 	},
 	{
@@ -569,7 +569,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "capsulesGemini",
-		"identical_part_name": "",
+		"identical_part_name": "GeminiNoseCap",
 		"module_tags": []
 	},
 	{
@@ -591,7 +591,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "GeminiSM, MMH+NTO",
-		"identical_part_name": "",
+		"identical_part_name": "GeminiOAMS",
 		"module_tags": [
 			"EngineLiquidPF"
 		]
@@ -666,7 +666,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "capsulesGemini",
-		"identical_part_name": "",
+		"identical_part_name": "GeminiRetro",
 		"module_tags": []
 	},
 	{
@@ -688,7 +688,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "Star-13E",
-		"identical_part_name": "",
+		"identical_part_name": "Star-13E",
 		"module_tags": [
 			"EngineSolid"
 		]
@@ -722,7 +722,7 @@
 	},
 	{
 		"name": "bluedog_Gemini_Spectrometer",
-		"title": "Gemini Spectrometer Instrument - RO-MIMS",
+		"title": "Gemini Spectrometer Instrument",
 		"description": "",
 		"mod": "Bluedog DB",
 		"cost": 500,
@@ -763,7 +763,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "",
-		"identical_part_name": "",
+		"identical_part_name": "GeminiAntenna",
 		"module_tags": []
 	},
 	{
@@ -785,7 +785,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "capsulesStation, capsulesGemini",
-		"identical_part_name": "",
+		"identical_part_name": "GeminiBAdapter",
 		"module_tags": [
 			"HumanRated"
 		],
@@ -813,7 +813,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "capsulesStation, capsulesGemini",
-		"identical_part_name": "",
+		"identical_part_name": "GeminiBRetro",
 		"module_tags": [
 			"HumanRated"
 		]

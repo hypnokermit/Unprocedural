@@ -101,7 +101,7 @@
 	},
 	{
 		"name": "bluedog_Gemini_LES",
-		"title": "Gemini Launch Escape System - ROC-BigGeminiLES",
+		"title": "Gemini Launch Escape System",
 		"description": "",
 		"mod": "Bluedog DB",
 		"cost": 4000,
@@ -118,7 +118,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "capsulesBigG",
-		"identical_part_name": "",
+		"identical_part_name": "BigG LES",
 		"module_tags": [
 			"EngineSolid"
 		]

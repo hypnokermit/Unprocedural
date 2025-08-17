@@ -166,7 +166,7 @@
 		"engine_config": "X405",
 		"upgrade": false,
 		"entry_cost_mods": "X-405H",
-		"identical_part_name": "",
+		"identical_part_name": "X405H",
 		"module_tags": [
 			"EngineLiquidTurbo"
 		]

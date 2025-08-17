@@ -42,7 +42,7 @@
 		"engine_config": "LMAE",
 		"upgrade": false,
 		"entry_cost_mods": "LMAE",
-		"identical_part_name": "ROC-LEMLMAEBDB",
+		"identical_part_name": "Apollo LMAE",
 		"module_tags": [
 			"EngineLiquidPF"
 		]
@@ -66,7 +66,7 @@
 		"engine_config": "LMDE",
 		"upgrade": false,
 		"entry_cost_mods": "LMDE-H",
-		"identical_part_name": "",
+		"identical_part_name": "Apollo LMDE",
 		"module_tags": [
 			"EngineLiquidPF"
 		]

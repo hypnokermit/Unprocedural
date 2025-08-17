@@ -100,7 +100,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "5000,science-module",
-		"identical_part_name": "",
+		"identical_part_name": "KH1",
 		"module_tags": [
 			"Instruments"
 		]
@@ -124,7 +124,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "5000,RO-BasicFilmCamera",
-		"identical_part_name": "",
+		"identical_part_name": "KH4",
 		"module_tags": [
 			"Instruments"
 		]

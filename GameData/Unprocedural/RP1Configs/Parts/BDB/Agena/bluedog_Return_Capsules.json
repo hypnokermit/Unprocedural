@@ -1,7 +1,7 @@
 [
 	{
 		"name": "bluedog_Corona_Heatshield",
-		"title": "Keyhole Return Capsule Heatshield - RP0-SampleReturnCapsule",
+		"title": "Keyhole Return Capsule Heatshield",
 		"description": "",
 		"mod": "Bluedog DB",
 		"cost": 500,
@@ -45,7 +45,7 @@
 	},
 	{
 		"name": "bluedog_Corona_Pod",
-		"title": "Keyhole Return Capsule Pod - RP0-SampleReturnCommand",
+		"title": "Keyhole Return Capsule Pod",
 		"description": "",
 		"mod": "Bluedog DB",
 		"cost": 300,

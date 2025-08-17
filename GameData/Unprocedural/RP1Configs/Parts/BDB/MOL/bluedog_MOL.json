@@ -214,7 +214,7 @@
 	},
 	{
 		"name": "bluedog_MOL_DockingPort",
-		"title": "MOL Docking Mechanism - ROC-BigGeminiMOLPort",
+		"title": "MOL Docking Mechanism",
 		"description": "",
 		"mod": "Bluedog DB",
 		"cost": 4000,

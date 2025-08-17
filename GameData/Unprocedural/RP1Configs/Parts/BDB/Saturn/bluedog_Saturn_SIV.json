@@ -225,7 +225,7 @@
 	},
 	{
 		"name": "bluedog_Saturn_S4B_Ullage",
-		"title": "S-IV TX-280 Ullage Motor - ROE-TX280",
+		"title": "S-IV TX-280 Ullage Motor",
 		"description": "",
 		"mod": "Bluedog DB",
 		"cost": 20,
@@ -242,7 +242,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "TX-280",
-		"identical_part_name": "",
+		"identical_part_name": "SIVUllageMotor",
 		"module_tags": [
 			"EngineSolid"
 		]

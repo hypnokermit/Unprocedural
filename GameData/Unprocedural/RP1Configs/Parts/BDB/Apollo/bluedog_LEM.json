@@ -117,7 +117,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "LunarModuleDescent",
-		"identical_part_name": "",
+		"identical_part_name": "Apollo LM Legs",
 		"module_tags": []
 	},
 	{
@@ -161,7 +161,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "LunarModuleDescent",
-		"identical_part_name": "",
+		"identical_part_name": "Apollo LEM Descent",
 		"module_tags": []
 	},
 	{
@@ -368,7 +368,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "",
-		"identical_part_name": "",
+		"identical_part_name": "Lunar Flying Vehicle",
 		"module_tags": [
 			"EngineLiquidPF"]
 	},
@@ -391,7 +391,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "LunarModuleDescent",
-		"identical_part_name": "",
+		"identical_part_name": "Apollo LM MESA",
 		"module_tags": []
 	},
 	{
@@ -481,9 +481,10 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "ROC-LEMRackSNAP9BDB",
-		"identical_part_name": "",
+		"identical_part_name": "SNAP-9",
 		"module_tags": [
-			"NuclearRTG"]
+			"NuclearRTG"
+		]
 	},
 	{
 		"name": "bluedog_LM_SheLab",
@@ -551,7 +552,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "ROC-LEMShelterBDB",
-		"identical_part_name": "",
+		"identical_part_name": "AES LM Shelter",
 		"module_tags": [
   		"HumanRated",
   		"NoResourceCostMult",
@@ -629,7 +630,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "ROC-LEMAscentTaxiBDB",
-		"identical_part_name": "",
+		"identical_part_name": "AES LM Taxi",
 		"module_tags": [
   		"HumanRated",
   		"NoResourceCostMult",
@@ -660,7 +661,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "5000",
-		"identical_part_name": "",
+		"identical_part_name": "AES LM Truck Platform",
 		"module_tags": []
 	},
 	{

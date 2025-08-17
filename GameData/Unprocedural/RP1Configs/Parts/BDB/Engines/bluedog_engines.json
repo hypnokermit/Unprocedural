@@ -191,7 +191,7 @@
 		"engine_config": "NERVA_XE",
 		"upgrade": false,
 		"entry_cost_mods": "NERVA-XE-Hydrogen",
-		"identical_part_name": "",
+		"identical_part_name": "NERVA XE",
 		"module_tags": [
 			"EngineLiquidTurbo",
 			"Nuclear"

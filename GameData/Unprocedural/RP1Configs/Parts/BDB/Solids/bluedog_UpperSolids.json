@@ -66,7 +66,7 @@
 		"engine_config": "Alcyone1",
 		"upgrade": false,
 		"entry_cost_mods": "Alcyone-1",
-		"identical_part_name": "",
+		"identical_part_name": "Alcyone1",
 		"module_tags": [
 			"EngineSolid"
 		]
@@ -138,7 +138,7 @@
 		"engine_config": "STAR-37",
 		"upgrade": false,
 		"entry_cost_mods": "STAR-37",
-		"identical_part_name": "",
+		"identical_part_name": "Star-37",
 		"module_tags": [
 			"EngineSolid"
 		]

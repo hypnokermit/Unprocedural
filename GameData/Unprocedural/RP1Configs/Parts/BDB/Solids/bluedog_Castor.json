@@ -42,7 +42,7 @@
 		"engine_config": "Castor-2",
 		"upgrade": false,
 		"entry_cost_mods": "ROE-Castor2",
-		"identical_part_name": "Castor-2",
+		"identical_part_name": "Castor 2",
 		"module_tags": [
   		"EngineSolid"
 		]
@@ -66,7 +66,7 @@
 		"engine_config": "",
 		"upgrade": false,
 		"entry_cost_mods": "",
-		"identical_part_name": "",
+		"identical_part_name": "CastorDecoupler",
 		"module_tags": []
 	},
 	{
